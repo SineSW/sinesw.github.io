@@ -13,3 +13,6 @@ aussieht. Als Goof-Style bezeichnet.
 * neugierig
 
 > Uuups!
+
+<img src="https://freestockgallery.de/objekte/weisse-feder-1787.thumb_large.jpg">
+
